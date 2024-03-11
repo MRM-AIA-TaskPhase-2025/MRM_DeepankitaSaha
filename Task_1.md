@@ -5,7 +5,7 @@ Started out with making a folder called "Github_task" in my home directory, usin
  mkdir Github_task
  cd Github_task <br>
  Then, had to initialise git repository using: <br>
- git init <br>
+ git init <br> 
  git remote add origin "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git" <br>
  git remote -v <br>
  git add . <br>
