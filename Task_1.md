@@ -1,7 +1,7 @@
 # MRM_DeepankitaSaha
 <br>
-cd Desktop
-  130  clr
+cd Desktop <br>
+  130  clr <br>
   131  clear
   132  cd 
   133  ls
