@@ -1,8 +1,10 @@
 # MRM_DeepankitaSaha
 <br>
+Started out with making a folder called "Github_task" in my home directory, using the following commands : <br>
  ls <br>
  mkdir Github_task
  cd Github_task <br>
+ Then, had to initialise git repository using: <br>
  git init <br>
  git remote add origin "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git" <br>
  git remote -v <br>
@@ -55,16 +57,16 @@
  ls -la <br>
  git remote -v <br>
  git clone <br>
-  192  git remote add origin "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git"
-  193  pwd
-  194  ls
-  195  cd Github_task
-  196  ls -la
-  197  git remote add origin "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git"
-  198  git add helloworld.c
-  199  git status
-  200  git commit -m "kuch toh"
-  201  git status
+ git remote add origin "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git" <br>
+ pwd <br>
+ ls <br>
+ cd Github_task <br>
+ ls -la <br>
+ git remote add origin "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git" <br>
+ git add helloworld.c <br>
+ git status <br>
+ git commit -m "kuch toh" <br>
+ git status <br>
   202  git remote -v
   203  git push
   204  git push --set-upstream origin master
@@ -136,6 +138,4 @@
   270  ls
   271  mkdir Github_task_2
   272  git clone "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git"
-  273  git branches
-  274  git --help
-  275  git branch
+  
