@@ -1,68 +1,60 @@
 # MRM_DeepankitaSaha
 <br>
-cd Desktop <br>
-  130  clr <br>
-  131  clear
-  132  cd 
-  133  ls
-  134  cd Github_task
-  135  git init
-  136  git remote add origin "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git"
-  137  git remote -v
-  138  git add .
-  139  git commit -m "First commit"
-  140  git commit -m "My first commit"
-  141  git init
-  142  git config user.name "deepankitasaha"
-  143  git config user.email "deepankitas2017@gmail.com"
-  144  git add *
-  145  git commit -m "trying again ugh"
-  146  git push origin master
-  147  git init
-  148  git remote add origin "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git"
-  149  git remote -v
-  150  git add .
-  151  git commit -m "my first commit"
-  152  git push origin master
-  153  ssh-keygen -t rsa -b 4096 -c "deepankitas2017@gmail.com"
-  154  cat ~/.ssh/id_rsa.pub
-  155  clear
-  156  ls
-  157  cd Desktop
-  158  git config --global credential.helper manager
-  159  cd Home
-  160  ls
-  161  cd Github_task
-  162  git init
-  163  git remote add origin "git@github.com:MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git"
-  164  git remote remove origin
-  165  git remove -v
-  166  git remote -v
-  167  git remote add origin [git@github.com:MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git].git
-  168  git remote -v
-  169  git add .
-  170  git commit -m "my first commit"
-  171  rm -rf .git/
-  172  git init
-  173  git remote add origin "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git"
-  174  git commit -m "Commit message"
-  175  git init
-  176  git config user.name "deepankitasaha"
-  177  git config user.email "deepankitas2017@gmail.com"
-  178  git add *
-  179  git commit -m "commit 5.0"
-  180  ls -la
-  181  rm -rf .git
-  182  git config --global user.email 
-  183  rm -rf .git
-  184  git config --global user.email "deepankitas2017@gmail.com"
-  185  git config --global user.name "deepankitasaha"
-  186  git config user.name "Deepankita Saha"
-  187  git config --list --show-origin
-  188  git init
-  189  ls -la
-  190  git remote -v
-  191  git clone
+ ls <br>
+ mkdir Github_task
+ cd Github_task <br>
+ git init <br>
+ git remote add origin "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git" <br>
+ git remote -v <br>
+ git add . <br>
+ git commit -m "First commit" <br>
+ git commit -m "My first commit" <br>
+ git init <br>
+ git config user.name "deepankitasaha" <br>
+ git config user.email "deepankitas2017@gmail.com" <br>
+ git add * <br>
+ git commit -m "trying again ugh" <br>
+ git push origin master <br>
+ git init <br>
+ git remote add origin "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git" <br>
+ git remote -v <br>
+ git add . <br>
+ git commit -m "my first commit" <br>
+ git push origin master <br>
+ ssh-keygen -t rsa -b 4096 -c "deepankitas2017@gmail.com" <br>
+ cat ~/.ssh/id_rsa.pub <br>
+ cd Desktop <br>
+ git config --global credential.helper manager <br>
+ cd Home <br>
+ ls <br>
+ cd Github_task <br>
+ git init <br>
+ git remote add origin "git@github.com:MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git" <br>
+ git remote add origin [git@github.com:MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git].git <br>
+ git remote -v <br>
+ git add . <br>
+ git commit -m "my first commit" <br>
+ rm -rf .git/ <br>
+ git init <br>
+ git remote add origin "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git" <br>
+ git commit -m "Commit message" <br>
+ git init <br>
+ git config user.name "deepankitasaha" <br>
+ git config user.email "deepankitas2017@gmail.com" <br>
+ git add * <br>
+ git commit -m "commit 5.0" <br>
+ ls -la <br>
+ rm -rf .git <br>
+ git config --global user.email <br>
+ rm -rf .git <br>
+ git config --global user.email "deepankitas2017@gmail.com" <br>
+ git config --global user.name "deepankitasaha" <br>
+ git config user.name "Deepankita Saha" <br>
+ git config --list --show-origin <br>
+ git init <br>
+ ls -la <br>
+ git remote -v <br>
+ git clone <br>
   192  git remote add origin "https://github.com/MRM-AIA-TaskPhase-2025/MRM_DeepankitaSaha.git"
   193  pwd
   194  ls
